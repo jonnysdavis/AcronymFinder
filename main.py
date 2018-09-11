@@ -3,7 +3,7 @@ import re
 
 textInput = """
 We need to leave ASAP (As Soon As Possible) because
-the CIA (Central Intel Agency) is here with the DoD to research RADAR tech
+the CIA (Central Intel Agency) is here with the DoD to research the RADAR tech we have
 """
 
 def findAcro (docText):
