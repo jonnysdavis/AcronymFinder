@@ -4,7 +4,6 @@ shorthand = ""
 expanded = ""
 cofidence = False
 
-
 class acronym:
 
     def acronymLength():
